@@ -1,0 +1,30 @@
+body {
+  background-image: url("../img/background.png");
+  background-size: cover; }
+
+img {
+  width: 38%;
+  margin-top: 7%;
+  margin-left: 3%; }
+
+div {
+  margin-left: 3%;
+  width: 38%;
+  color: white; }
+
+h1 {
+  color: #6944D3;
+  text-transform: uppercase;
+  font-size: 20px; }
+
+p {
+  font-size: 11px; }
+
+button {
+  background-color: #6944D3;
+  border: none;
+  font-size: 19px;
+  color: white;
+  padding: 2%; }
+
+/*# sourceMappingURL=style.css.map */
